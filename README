@@ -1,1 +1,16 @@
+A visually interactive Power BI dashboard designed to analyze and showcase trends, adoption, key companies, research insights, and use cases in Emerging Technologies.
 
+📊 Project Overview
+This dashboard highlights:
+-Key technology categories
+-Launch year trends
+-Research paper counts
+-Major companies contributing to emerging tech
+-Use cases and adoption levels
+
+🎯 Objective
+To provide a clear and insightful view of how emerging technologies are evolving and which areas show rapid growth, helping users make data-driven decisions.
+
+🛠️ Tools & Technologies Used
+-Power BI Desktop
+-Data Cleaning & Visualization
